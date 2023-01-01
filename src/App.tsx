@@ -1,23 +1,23 @@
 import type { Component } from 'solid-js';
 
-import logo from './logo.svg';
+import tarheeldevlogo1 from './tarheeldevlogo1.png';
 import styles from './App.module.css';
 
 const App: Component = () => {
   return (
     <div class={styles.App}>
       <header class={styles.header}>
-        <img src={logo} class={styles.logo} alt="logo" />
+        <img src={tarheeldevlogo1} class={styles.logo} alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Happy New Years from your favorite digital studio!
         </p>
         <a
           class={styles.link}
-          href="https://github.com/solidjs/solid"
+          href="https://github.com/geauxweisbeck4/tarheeldigital"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Solid
+          Tar Heel Dev Studio
         </a>
       </header>
     </div>

@@ -20,7 +20,17 @@
 }
 
 .link {
-  color: #b318f0;
+  font-size: 2rem;
+  color: #18bef0;
+}
+
+.link:hover {
+  color: #18f0a8;
+}
+
+p {
+  margin-top: 10rem;
+  font-size: 3rem;
 }
 
 @keyframes logo-spin {
